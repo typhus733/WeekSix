@@ -1,0 +1,14 @@
+C:\Users\brandon.gunthner\Desktop\ProgProj\WeekSix\bin\Debug\netcoreapp3.1\WeekSix.exe
+C:\Users\brandon.gunthner\Desktop\ProgProj\WeekSix\bin\Debug\netcoreapp3.1\WeekSix.deps.json
+C:\Users\brandon.gunthner\Desktop\ProgProj\WeekSix\bin\Debug\netcoreapp3.1\WeekSix.runtimeconfig.json
+C:\Users\brandon.gunthner\Desktop\ProgProj\WeekSix\bin\Debug\netcoreapp3.1\WeekSix.runtimeconfig.dev.json
+C:\Users\brandon.gunthner\Desktop\ProgProj\WeekSix\bin\Debug\netcoreapp3.1\WeekSix.dll
+C:\Users\brandon.gunthner\Desktop\ProgProj\WeekSix\bin\Debug\netcoreapp3.1\WeekSix.pdb
+C:\Users\brandon.gunthner\Desktop\ProgProj\WeekSix\obj\Debug\netcoreapp3.1\WeekSix.csproj.AssemblyReference.cache
+C:\Users\brandon.gunthner\Desktop\ProgProj\WeekSix\obj\Debug\netcoreapp3.1\WeekSix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brandon.gunthner\Desktop\ProgProj\WeekSix\obj\Debug\netcoreapp3.1\WeekSix.AssemblyInfoInputs.cache
+C:\Users\brandon.gunthner\Desktop\ProgProj\WeekSix\obj\Debug\netcoreapp3.1\WeekSix.AssemblyInfo.cs
+C:\Users\brandon.gunthner\Desktop\ProgProj\WeekSix\obj\Debug\netcoreapp3.1\WeekSix.csproj.CoreCompileInputs.cache
+C:\Users\brandon.gunthner\Desktop\ProgProj\WeekSix\obj\Debug\netcoreapp3.1\WeekSix.dll
+C:\Users\brandon.gunthner\Desktop\ProgProj\WeekSix\obj\Debug\netcoreapp3.1\WeekSix.pdb
+C:\Users\brandon.gunthner\Desktop\ProgProj\WeekSix\obj\Debug\netcoreapp3.1\WeekSix.genruntimeconfig.cache
