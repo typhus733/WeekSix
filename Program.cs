@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO;
+using System.Net;
 
 namespace WeekSix
 {
@@ -106,11 +107,29 @@ namespace WeekSix
             return fileRead;
         }
 
+        static void NumberThirteen()
+        {
+            try
+            {
+                using (var client = new WebClient())
+                {
+                    client.DownloadFile("https://introprogramming.info/wp-content/uploads/2017/08/csharp-book-nakov-en-v2013-cover.jpg", "csharp-book-nakov-en-v2013-cover.jpg");
+                    Console.WriteLine("Download Successful");
+                }
+            }
+            catch (WebException we)
+            {
+                Console.WriteLine("Error, bad url or file");
+            }
+        }
+
+
         static void Main(string[] args)
         {
             //NumberSeven();
             //ReadNumber(1, 100);
-            Console.WriteLine(NumberNine(@"C:\temp\junk.txt"));
+            //Console.WriteLine(NumberNine(@"C:\Users\brandon.gunthner\Desktop\ProgProj\WeekSix\junk.txt"));
+            NumberThirteen();
         }
     }
 }
